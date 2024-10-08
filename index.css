@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #b1ceec;
+  }
+  
+  h2 {
+    color: #1e2831; 
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  
+  footer {
+    background-color: #273440; 
+    color: white;
+  }
+  
+  p {
+    background-color: bisque;
+  }
